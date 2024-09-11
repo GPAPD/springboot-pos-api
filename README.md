@@ -26,9 +26,8 @@ This is a Spring Boot-based web API that provides a set of RESTful endpoints to 
 
 To run this project, you need the following installed:
 
-- **Java 17** or higher
-- **Maven 3.x**
-- **A relational database** (MySQL, PostgreSQL, or H2 for in-memory testing)
+- **Java 1.5** or higher
+- **A relational database** (MySQL, PostgreSQL)
 
 ## Getting Started
 
