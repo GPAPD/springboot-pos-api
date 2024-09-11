@@ -19,7 +19,6 @@ This is a Spring Boot-based web API that provides a set of RESTful endpoints to 
 - **Spring Data JPA** - Database integration
 - **MySQLL** - Database (depending on the environment)
 - **Swagger** - API documentation
-- **JUnit 5** - Unit testing
 - **Maven** - Build tool
 - **Lombok** - Build tool
 
